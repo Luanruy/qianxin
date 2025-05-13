@@ -37,4 +37,6 @@ When running to the system instruction in gdb, it is found that the executed str
 After execution, you can see that the corresponding file is generated in the corresponding folder.
 ![enter image description here](https://i.miji.bid/2025/05/07/bb335c1b28c2205899b0380cc1fcce4a.png)
 
+![enter image description here](https://i.miji.bid/2025/05/07/c33057517510f69f307285847bccec91.png)
+
 
