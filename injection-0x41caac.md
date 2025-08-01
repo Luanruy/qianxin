@@ -1,4 +1,4 @@
-﻿# TOTOLINK_N600R_V4.3.0cu.7866_B20220506-stack overflow
+﻿# TOTOLINK_N600R_V4.3.0cu.7866_B20220506-injection attack
 
 ## File information
 
