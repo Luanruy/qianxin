@@ -1,4 +1,4 @@
-﻿# TOTOLINK_N600R_V4.3.0cu.7866_B20220506-command injection
+﻿# TOTOLINK_N600R_V4.3.0cu.7866_B20220506-buffer overflow
 
 ## File information
 
